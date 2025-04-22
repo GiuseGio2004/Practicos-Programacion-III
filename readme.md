@@ -2,12 +2,12 @@
 
 #Integrantes:
 
-#Giuseppe Giovanelli
+Giuseppe Giovanelli
 
-#Luca Soresi
+Luca Soresi
 
-#Carrio Lautaro
+Carrio Lautaro
 
-#Rodrigo Arrue
+Rodrigo Arrue
 
-#Juan Meunier
+Juan Meunier
