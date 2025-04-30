@@ -76,6 +76,10 @@ function validarEdad() {
         errorEdad.textContent = "La edad no puede ser negativa";
         document.getElementById("edad").classList.add("input-error");
         valido = false;
+    } else if (edad < 18) {
+        errorEdad.textContent = "Debes ser mayor de edad (18+ años)";
+        document.getElementById("edad").classList.add("input-error");
+        valido = false;
     }
     
     return valido;
