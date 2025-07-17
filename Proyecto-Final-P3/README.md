@@ -341,18 +341,4 @@ docker-compose restart frontend
 - [TailwindCSS](https://tailwindcss.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
 
-## 🤝 Contribución
 
-1. Fork el proyecto
-2. Crea tu feature branch (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -m 'Agregar nueva funcionalidad'`)
-4. Push a la branch (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
----
-
-**Desarrollado con ❤️ usando React, Express y Supabase**
